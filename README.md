@@ -46,4 +46,4 @@ We had implement to this project in 2 phases:
 1. In phase 1 we had to implement modules 1 - 5
 2. In phase 2 we had to implement modules 6 and 
 <br>
-A documentation folder has been added containing detailed description about the implementation details of every module which can be seen [here](https://github.com/KimiaMontazeri/logic_circuits_final_project/tree/main/documentation).
+A documentation folder has been added containing detailed description about the implementation details of every module which can be seen [here](https://github.com/KimiaMontazeri/logic_circuits_final_project/tree/main/documentation) .
