@@ -35,7 +35,7 @@ module controller_tb;
 		//S2
 		request = 1'b1;
 		confirm = 1'b1;
-		TimeData = 8'b11110010;
+		TimeData = 8'b01110010;
 	end
 
 	initial
